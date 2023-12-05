@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": ID "cyber-x@;;;4I11zKpD#xJFVpqjABOoeojuUptkPsCUnaqAb1mmPI7g1EZPXwL0",
             "required": true,
             "value": ""
         },
@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
